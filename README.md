@@ -1,6 +1,6 @@
 # Leveraging-LLMs-to-provide-skill-suggestions-and-recommendations
 
-Project plan:
+**Project plan:**
 
 **Scope:** 
 Analyze gig workers' task histories and leverage LLMs to generate personalized skill suggestions. Use RAG to retrieve relevant training resources.
