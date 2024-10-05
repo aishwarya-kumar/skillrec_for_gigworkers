@@ -17,8 +17,8 @@ Study existing AI applications for skill development and personalized recommenda
 Scraping data from Upwork to get user profiles, job types, earnings, ratings, and completion times. Collecting information on what skills are valued in specific types of gigs and what certifications, courses, or experiences lead to higher-paying jobs. Need to find curated resources such as job training websites, online courses and certification programs- maybe an API for Coursera
 
 **Implementation:**
-	Build the recommendation engine to suggest skills based on task history, job trends, and worker preferences.
-	Fine-tune the LLM using gig worker-related data to ensure accurate skill recommendations.
-	Implement the RAG system to pull up-to-date resources from online platforms (MOOCs, certification sites) based on the recommended skills.
+- Build the recommendation engine to suggest skills based on task history, job trends, and worker preferences.
+- Fine-tune the LLM using gig worker-related data to ensure accurate skill recommendations.
+- Implement the RAG system to pull up-to-date resources from online platforms (MOOCs, certification sites) based on the recommended skills.
 
 If possible, test with a small group of gig workers to assess the accuracy and usefulness of the skill recommendations.
