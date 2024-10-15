@@ -1,0 +1,752 @@
+[
+    {
+        "input": {
+            "Worker ID": 1,
+            "Task History": "Web Development, SEO",
+            "Earnings": "$2611",
+            "Rating": 4.2,
+            "Current Skills": "SEO, Web Development",
+            "Experience Level": "Intermediate",
+            "Job Count": 36,
+            "Time Spent on Gigs": "119 hours"
+        },
+        "output": {
+            "Recommended Skills": "JavaScript, On-Page SEO, Frontend Frameworks, Link Building, Analytics"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 2,
+            "Task History": "Social Media Management, Web Development",
+            "Earnings": "$7402",
+            "Rating": 4.6,
+            "Current Skills": "Social Media Management, Web Development",
+            "Experience Level": "Advanced",
+            "Job Count": 76,
+            "Time Spent on Gigs": "217 hours"
+        },
+        "output": {
+            "Recommended Skills": "Advanced Advertising, Backend Development, Social Media Strategy, DevOps, APIs"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 3,
+            "Task History": "UI Design",
+            "Earnings": "$743",
+            "Rating": 3.5,
+            "Current Skills": "UI Design",
+            "Experience Level": "Beginner",
+            "Job Count": 23,
+            "Time Spent on Gigs": "77 hours"
+        },
+        "output": {
+            "Recommended Skills": "Basic UI Design Principles"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 4,
+            "Task History": "Social Media Management",
+            "Earnings": "$1718",
+            "Rating": 4.0,
+            "Current Skills": "Social Media Management",
+            "Experience Level": "Beginner",
+            "Job Count": 26,
+            "Time Spent on Gigs": "83 hours"
+        },
+        "output": {
+            "Recommended Skills": "Basic Social Media Skills, Content Scheduling"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 5,
+            "Task History": "Social Media Management, Writing",
+            "Earnings": "$5638",
+            "Rating": 4.6,
+            "Current Skills": "Writing, Social Media Management",
+            "Experience Level": "Advanced",
+            "Job Count": 95,
+            "Time Spent on Gigs": "161 hours"
+        },
+        "output": {
+            "Recommended Skills": "Advanced Advertising, Storytelling, Social Media Strategy, Content Marketing, SEO Writing"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 6,
+            "Task History": "UI Design, Blogging",
+            "Earnings": "$4019",
+            "Rating": 3.9,
+            "Current Skills": "Blogging, UI Design",
+            "Experience Level": "Advanced",
+            "Job Count": 117,
+            "Time Spent on Gigs": "246 hours"
+        },
+        "output": {
+            "Recommended Skills": "User Research, Design Systems, Monetization Strategies, Content Marketing"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 7,
+            "Task History": "Data Entry, Social Media Management",
+            "Earnings": "$7562",
+            "Rating": 4.2,
+            "Current Skills": "Data Entry, Social Media Management",
+            "Experience Level": "Advanced",
+            "Job Count": 80,
+            "Time Spent on Gigs": "228 hours"
+        },
+        "output": {
+            "Recommended Skills": "SQL, Social Media Strategy, Advanced Advertising, Data Analysis"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 8,
+            "Task History": "Social Media Management, Writing",
+            "Earnings": "$1089",
+            "Rating": 3.5,
+            "Current Skills": "Writing, Social Media Management",
+            "Experience Level": "Beginner",
+            "Job Count": 25,
+            "Time Spent on Gigs": "88 hours"
+        },
+        "output": {
+            "Recommended Skills": "Basic Social Media Skills, Grammar, Basic Writing, Editing, Content Scheduling"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 9,
+            "Task History": "Graphic Design",
+            "Earnings": "$2919",
+            "Rating": 4.0,
+            "Current Skills": "Graphic Design",
+            "Experience Level": "Intermediate",
+            "Job Count": 66,
+            "Time Spent on Gigs": "111 hours"
+        },
+        "output": {
+            "Recommended Skills": "Branding, Adobe Photoshop"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 10,
+            "Task History": "Graphic Design, Blogging, Data Entry",
+            "Earnings": "$5102",
+            "Rating": 3.9,
+            "Current Skills": "Blogging, Graphic Design, Data Entry",
+            "Experience Level": "Advanced",
+            "Job Count": 89,
+            "Time Spent on Gigs": "152 hours"
+        },
+        "output": {
+            "Recommended Skills": "Motion Graphics, Data Analysis, UI/UX Design, SQL, Content Marketing, Monetization Strategies"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 11,
+            "Task History": "Graphic Design, Social Media Management",
+            "Earnings": "$1366",
+            "Rating": 3.5,
+            "Current Skills": "Graphic Design, Social Media Management",
+            "Experience Level": "Beginner",
+            "Job Count": 17,
+            "Time Spent on Gigs": "96 hours"
+        },
+        "output": {
+            "Recommended Skills": "Basic Social Media Skills, Content Scheduling, Color Theory, Basic Graphic Design"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 12,
+            "Task History": "Social Media Management, Graphic Design, SEO",
+            "Earnings": "$5382",
+            "Rating": 5.0,
+            "Current Skills": "SEO, Graphic Design, Social Media Management",
+            "Experience Level": "Advanced",
+            "Job Count": 89,
+            "Time Spent on Gigs": "170 hours"
+        },
+        "output": {
+            "Recommended Skills": "Motion Graphics, Advanced Advertising, SEO Audits, UI/UX Design, Social Media Strategy, Advanced Analytics, Technical SEO"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 13,
+            "Task History": "Social Media Management, Data Entry, Writing",
+            "Earnings": "$3596",
+            "Rating": 3.8,
+            "Current Skills": "Writing, Data Entry, Social Media Management",
+            "Experience Level": "Intermediate",
+            "Job Count": 47,
+            "Time Spent on Gigs": "146 hours"
+        },
+        "output": {
+            "Recommended Skills": "Engagement Strategies, Content Strategy, Technical Writing, Database Management, Data Cleaning, Creative Writing, Analytics"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 14,
+            "Task History": "Web Development",
+            "Earnings": "$3172",
+            "Rating": 5.0,
+            "Current Skills": "Web Development",
+            "Experience Level": "Intermediate",
+            "Job Count": 69,
+            "Time Spent on Gigs": "104 hours"
+        },
+        "output": {
+            "Recommended Skills": "Frontend Frameworks, JavaScript"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 15,
+            "Task History": "Blogging",
+            "Earnings": "$5065",
+            "Rating": 4.0,
+            "Current Skills": "Blogging",
+            "Experience Level": "Advanced",
+            "Job Count": 89,
+            "Time Spent on Gigs": "202 hours"
+        },
+        "output": {
+            "Recommended Skills": "Monetization Strategies, Content Marketing"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 16,
+            "Task History": "Writing, Blogging, SEO",
+            "Earnings": "$1696",
+            "Rating": 4.7,
+            "Current Skills": "Writing, SEO, Blogging",
+            "Experience Level": "Beginner",
+            "Job Count": 30,
+            "Time Spent on Gigs": "85 hours"
+        },
+        "output": {
+            "Recommended Skills": "Grammar, Basic Writing, Content Planning, Basic Blogging, Editing, Basic SEO Techniques, Keyword Research"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 17,
+            "Task History": "Social Media Management, UI Design, Blogging",
+            "Earnings": "$898",
+            "Rating": 3.5,
+            "Current Skills": "Blogging, Social Media Management, UI Design",
+            "Experience Level": "Beginner",
+            "Job Count": 25,
+            "Time Spent on Gigs": "67 hours"
+        },
+        "output": {
+            "Recommended Skills": "Basic Social Media Skills, Content Planning, Basic Blogging, Basic UI Design Principles, Content Scheduling"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 18,
+            "Task History": "Graphic Design",
+            "Earnings": "$1520",
+            "Rating": 4.5,
+            "Current Skills": "Graphic Design",
+            "Experience Level": "Beginner",
+            "Job Count": 10,
+            "Time Spent on Gigs": "100 hours"
+        },
+        "output": {
+            "Recommended Skills": "Color Theory, Basic Graphic Design"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 19,
+            "Task History": "UI Design, Blogging",
+            "Earnings": "$6166",
+            "Rating": 3.6,
+            "Current Skills": "Blogging, UI Design",
+            "Experience Level": "Advanced",
+            "Job Count": 84,
+            "Time Spent on Gigs": "243 hours"
+        },
+        "output": {
+            "Recommended Skills": "User Research, Design Systems, Monetization Strategies, Content Marketing"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 20,
+            "Task History": "Writing, Social Media Management, Web Development",
+            "Earnings": "$1559",
+            "Rating": 4.3,
+            "Current Skills": "Writing, Social Media Management, Web Development",
+            "Experience Level": "Beginner",
+            "Job Count": 30,
+            "Time Spent on Gigs": "79 hours"
+        },
+        "output": {
+            "Recommended Skills": "Grammar, Basic Social Media Skills, HTML, Basic Writing, Editing, CSS, Content Scheduling"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 21,
+            "Task History": "Web Development, Blogging",
+            "Earnings": "$2083",
+            "Rating": 4.4,
+            "Current Skills": "Blogging, Web Development",
+            "Experience Level": "Intermediate",
+            "Job Count": 40,
+            "Time Spent on Gigs": "108 hours"
+        },
+        "output": {
+            "Recommended Skills": "SEO Optimization, Frontend Frameworks, JavaScript, Social Media Promotion"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 22,
+            "Task History": "Blogging",
+            "Earnings": "$501",
+            "Rating": 4.5,
+            "Current Skills": "Blogging",
+            "Experience Level": "Beginner",
+            "Job Count": 28,
+            "Time Spent on Gigs": "88 hours"
+        },
+        "output": {
+            "Recommended Skills": "Content Planning, Basic Blogging"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 23,
+            "Task History": "SEO, Social Media Management",
+            "Earnings": "$5431",
+            "Rating": 4.0,
+            "Current Skills": "SEO, Social Media Management",
+            "Experience Level": "Advanced",
+            "Job Count": 115,
+            "Time Spent on Gigs": "176 hours"
+        },
+        "output": {
+            "Recommended Skills": "Advanced Advertising, SEO Audits, Social Media Strategy, Advanced Analytics, Technical SEO"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 24,
+            "Task History": "Graphic Design, Data Entry",
+            "Earnings": "$1270",
+            "Rating": 4.5,
+            "Current Skills": "Graphic Design, Data Entry",
+            "Experience Level": "Beginner",
+            "Job Count": 23,
+            "Time Spent on Gigs": "78 hours"
+        },
+        "output": {
+            "Recommended Skills": "Color Theory, Basic Graphic Design, Basic Data Entry, Excel Basics"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 25,
+            "Task History": "Graphic Design, Writing, Blogging",
+            "Earnings": "$6053",
+            "Rating": 3.6,
+            "Current Skills": "Writing, Blogging, Graphic Design",
+            "Experience Level": "Advanced",
+            "Job Count": 112,
+            "Time Spent on Gigs": "244 hours"
+        },
+        "output": {
+            "Recommended Skills": "Motion Graphics, Storytelling, UI/UX Design, Monetization Strategies, Content Marketing, SEO Writing"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 26,
+            "Task History": "Writing",
+            "Earnings": "$3447",
+            "Rating": 3.6,
+            "Current Skills": "Writing",
+            "Experience Level": "Intermediate",
+            "Job Count": 37,
+            "Time Spent on Gigs": "104 hours"
+        },
+        "output": {
+            "Recommended Skills": "Technical Writing, Content Strategy, Creative Writing"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 27,
+            "Task History": "Web Development, Blogging, Social Media Management",
+            "Earnings": "$6728",
+            "Rating": 4.1,
+            "Current Skills": "Blogging, Social Media Management, Web Development",
+            "Experience Level": "Advanced",
+            "Job Count": 73,
+            "Time Spent on Gigs": "191 hours"
+        },
+        "output": {
+            "Recommended Skills": "Advanced Advertising, Backend Development, Monetization Strategies, Social Media Strategy, DevOps, Content Marketing, APIs"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 28,
+            "Task History": "SEO",
+            "Earnings": "$548",
+            "Rating": 4.3,
+            "Current Skills": "SEO",
+            "Experience Level": "Beginner",
+            "Job Count": 19,
+            "Time Spent on Gigs": "82 hours"
+        },
+        "output": {
+            "Recommended Skills": "Keyword Research, Basic SEO Techniques"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 29,
+            "Task History": "Social Media Management, Graphic Design, Web Development",
+            "Earnings": "$1601",
+            "Rating": 3.7,
+            "Current Skills": "Graphic Design, Social Media Management, Web Development",
+            "Experience Level": "Beginner",
+            "Job Count": 18,
+            "Time Spent on Gigs": "99 hours"
+        },
+        "output": {
+            "Recommended Skills": "Basic Social Media Skills, HTML, Color Theory, Content Scheduling, CSS, Basic Graphic Design"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 30,
+            "Task History": "UI Design",
+            "Earnings": "$3348",
+            "Rating": 4.4,
+            "Current Skills": "UI Design",
+            "Experience Level": "Intermediate",
+            "Job Count": 53,
+            "Time Spent on Gigs": "146 hours"
+        },
+        "output": {
+            "Recommended Skills": "Figma, Adobe XD"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 31,
+            "Task History": "SEO, Graphic Design, Writing",
+            "Earnings": "$4231",
+            "Rating": 3.6,
+            "Current Skills": "Writing, SEO, Graphic Design",
+            "Experience Level": "Advanced",
+            "Job Count": 79,
+            "Time Spent on Gigs": "232 hours"
+        },
+        "output": {
+            "Recommended Skills": "Motion Graphics, SEO Audits, UI/UX Design, Storytelling, SEO Writing, Advanced Analytics, Content Marketing, Technical SEO"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 32,
+            "Task History": "Web Development, Graphic Design",
+            "Earnings": "$4084",
+            "Rating": 4.7,
+            "Current Skills": "Graphic Design, Web Development",
+            "Experience Level": "Advanced",
+            "Job Count": 114,
+            "Time Spent on Gigs": "186 hours"
+        },
+        "output": {
+            "Recommended Skills": "Motion Graphics, UI/UX Design, Backend Development, DevOps, APIs"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 33,
+            "Task History": "SEO, Graphic Design, Social Media Management",
+            "Earnings": "$1989",
+            "Rating": 3.6,
+            "Current Skills": "SEO, Graphic Design, Social Media Management",
+            "Experience Level": "Beginner",
+            "Job Count": 29,
+            "Time Spent on Gigs": "72 hours"
+        },
+        "output": {
+            "Recommended Skills": "Basic Social Media Skills, Color Theory, Content Scheduling, Basic SEO Techniques, Keyword Research, Basic Graphic Design"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 34,
+            "Task History": "Web Development",
+            "Earnings": "$1780",
+            "Rating": 4.7,
+            "Current Skills": "Web Development",
+            "Experience Level": "Beginner",
+            "Job Count": 26,
+            "Time Spent on Gigs": "65 hours"
+        },
+        "output": {
+            "Recommended Skills": "HTML, CSS"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 35,
+            "Task History": "Social Media Management",
+            "Earnings": "$5246",
+            "Rating": 4.2,
+            "Current Skills": "Social Media Management",
+            "Experience Level": "Advanced",
+            "Job Count": 116,
+            "Time Spent on Gigs": "184 hours"
+        },
+        "output": {
+            "Recommended Skills": "Advanced Advertising, Social Media Strategy"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 36,
+            "Task History": "UI Design, Data Entry, SEO",
+            "Earnings": "$905",
+            "Rating": 4.8,
+            "Current Skills": "SEO, Data Entry, UI Design",
+            "Experience Level": "Beginner",
+            "Job Count": 15,
+            "Time Spent on Gigs": "52 hours"
+        },
+        "output": {
+            "Recommended Skills": "Excel Basics, Basic Data Entry, Keyword Research, Basic UI Design Principles, Basic SEO Techniques"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 37,
+            "Task History": "Data Entry",
+            "Earnings": "$2569",
+            "Rating": 4.5,
+            "Current Skills": "Data Entry",
+            "Experience Level": "Intermediate",
+            "Job Count": 43,
+            "Time Spent on Gigs": "106 hours"
+        },
+        "output": {
+            "Recommended Skills": "Data Cleaning, Database Management"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 38,
+            "Task History": "Writing",
+            "Earnings": "$6842",
+            "Rating": 3.6,
+            "Current Skills": "Writing",
+            "Experience Level": "Advanced",
+            "Job Count": 85,
+            "Time Spent on Gigs": "163 hours"
+        },
+        "output": {
+            "Recommended Skills": "SEO Writing, Content Marketing, Storytelling"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 39,
+            "Task History": "Web Development",
+            "Earnings": "$7037",
+            "Rating": 3.7,
+            "Current Skills": "Web Development",
+            "Experience Level": "Advanced",
+            "Job Count": 106,
+            "Time Spent on Gigs": "154 hours"
+        },
+        "output": {
+            "Recommended Skills": "DevOps, APIs, Backend Development"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 40,
+            "Task History": "UI Design, SEO, Writing",
+            "Earnings": "$6989",
+            "Rating": 4.1,
+            "Current Skills": "Writing, SEO, UI Design",
+            "Experience Level": "Advanced",
+            "Job Count": 111,
+            "Time Spent on Gigs": "208 hours"
+        },
+        "output": {
+            "Recommended Skills": "SEO Audits, Storytelling, Design Systems, SEO Writing, Advanced Analytics, User Research, Content Marketing, Technical SEO"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 41,
+            "Task History": "Data Entry, SEO, UI Design",
+            "Earnings": "$3973",
+            "Rating": 4.0,
+            "Current Skills": "SEO, Data Entry, UI Design",
+            "Experience Level": "Intermediate",
+            "Job Count": 70,
+            "Time Spent on Gigs": "132 hours"
+        },
+        "output": {
+            "Recommended Skills": "Figma, On-Page SEO, Adobe XD, Database Management, Data Cleaning, Link Building, Analytics"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 42,
+            "Task History": "Blogging",
+            "Earnings": "$4075",
+            "Rating": 4.7,
+            "Current Skills": "Blogging",
+            "Experience Level": "Advanced",
+            "Job Count": 70,
+            "Time Spent on Gigs": "178 hours"
+        },
+        "output": {
+            "Recommended Skills": "Monetization Strategies, Content Marketing"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 43,
+            "Task History": "Writing, Data Entry, Web Development",
+            "Earnings": "$2748",
+            "Rating": 4.8,
+            "Current Skills": "Writing, Data Entry, Web Development",
+            "Experience Level": "Intermediate",
+            "Job Count": 36,
+            "Time Spent on Gigs": "150 hours"
+        },
+        "output": {
+            "Recommended Skills": "JavaScript, Content Strategy, Technical Writing, Frontend Frameworks, Database Management, Data Cleaning, Creative Writing"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 44,
+            "Task History": "UI Design, SEO, Social Media Management",
+            "Earnings": "$3045",
+            "Rating": 3.8,
+            "Current Skills": "SEO, Social Media Management, UI Design",
+            "Experience Level": "Intermediate",
+            "Job Count": 30,
+            "Time Spent on Gigs": "110 hours"
+        },
+        "output": {
+            "Recommended Skills": "Engagement Strategies, Figma, On-Page SEO, Adobe XD, Link Building, Analytics"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 45,
+            "Task History": "Data Entry",
+            "Earnings": "$4664",
+            "Rating": 4.0,
+            "Current Skills": "Data Entry",
+            "Experience Level": "Advanced",
+            "Job Count": 98,
+            "Time Spent on Gigs": "169 hours"
+        },
+        "output": {
+            "Recommended Skills": "SQL, Data Analysis"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 46,
+            "Task History": "Data Entry",
+            "Earnings": "$3876",
+            "Rating": 4.0,
+            "Current Skills": "Data Entry",
+            "Experience Level": "Intermediate",
+            "Job Count": 37,
+            "Time Spent on Gigs": "128 hours"
+        },
+        "output": {
+            "Recommended Skills": "Data Cleaning, Database Management"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 47,
+            "Task History": "Social Media Management",
+            "Earnings": "$6123",
+            "Rating": 3.5,
+            "Current Skills": "Social Media Management",
+            "Experience Level": "Advanced",
+            "Job Count": 93,
+            "Time Spent on Gigs": "208 hours"
+        },
+        "output": {
+            "Recommended Skills": "Advanced Advertising, Social Media Strategy"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 48,
+            "Task History": "Writing, Web Development",
+            "Earnings": "$3860",
+            "Rating": 3.9,
+            "Current Skills": "Writing, Web Development",
+            "Experience Level": "Intermediate",
+            "Job Count": 61,
+            "Time Spent on Gigs": "136 hours"
+        },
+        "output": {
+            "Recommended Skills": "JavaScript, Content Strategy, Technical Writing, Frontend Frameworks, Creative Writing"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 49,
+            "Task History": "Data Entry",
+            "Earnings": "$1766",
+            "Rating": 4.7,
+            "Current Skills": "Data Entry",
+            "Experience Level": "Beginner",
+            "Job Count": 21,
+            "Time Spent on Gigs": "64 hours"
+        },
+        "output": {
+            "Recommended Skills": "Basic Data Entry, Excel Basics"
+        }
+    },
+    {
+        "input": {
+            "Worker ID": 50,
+            "Task History": "SEO",
+            "Earnings": "$1489",
+            "Rating": 4.4,
+            "Current Skills": "SEO",
+            "Experience Level": "Beginner",
+            "Job Count": 18,
+            "Time Spent on Gigs": "69 hours"
+        },
+        "output": {
+            "Recommended Skills": "Keyword Research, Basic SEO Techniques"
+        }
+    }
+]

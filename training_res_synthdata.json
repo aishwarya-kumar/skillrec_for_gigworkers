@@ -1,0 +1,502 @@
+[
+    {
+        "Resource ID": 1,
+        "Skill": "Writing",
+        "Resource Type": "Tutorial",
+        "Platform": "Khan Academy",
+        "Difficulty Level": "Beginner",
+        "Price": "Free",
+        "Duration": "2 weeks",
+        "URL": "https://www.khanacademy.com/writing-course-1"
+    },
+    {
+        "Resource ID": 2,
+        "Skill": "Admin Support",
+        "Resource Type": "Tutorial",
+        "Platform": "Khan Academy",
+        "Difficulty Level": "Beginner",
+        "Price": "Free",
+        "Duration": "1 week",
+        "URL": "https://www.khanacademy.com/admin-support-course-2"
+    },
+    {
+        "Resource ID": 3,
+        "Skill": "SEO",
+        "Resource Type": "Workshop",
+        "Platform": "Google Digital Garage",
+        "Difficulty Level": "Advanced",
+        "Price": "$200",
+        "Duration": "5 hours",
+        "URL": "https://www.googledigitalgarage.com/seo-course-3"
+    },
+    {
+        "Resource ID": 4,
+        "Skill": "Web Development",
+        "Resource Type": "Course",
+        "Platform": "Skillshare",
+        "Difficulty Level": "Beginner",
+        "Price": "$200",
+        "Duration": "10 hours",
+        "URL": "https://www.skillshare.com/web-development-course-4"
+    },
+    {
+        "Resource ID": 5,
+        "Skill": "Graphic Design",
+        "Resource Type": "Tutorial",
+        "Platform": "Skillshare",
+        "Difficulty Level": "Beginner",
+        "Price": "$200",
+        "Duration": "5 hours",
+        "URL": "https://www.skillshare.com/graphic-design-course-5"
+    },
+    {
+        "Resource ID": 6,
+        "Skill": "Writing",
+        "Resource Type": "Course",
+        "Platform": "Udemy",
+        "Difficulty Level": "Beginner",
+        "Price": "$50",
+        "Duration": "3 weeks",
+        "URL": "https://www.udemy.com/writing-course-6"
+    },
+    {
+        "Resource ID": 7,
+        "Skill": "Social Media Management",
+        "Resource Type": "Tutorial",
+        "Platform": "LinkedIn Learning",
+        "Difficulty Level": "Beginner",
+        "Price": "$200",
+        "Duration": "5 hours",
+        "URL": "https://www.linkedinlearning.com/social-media-management-course-7"
+    },
+    {
+        "Resource ID": 8,
+        "Skill": "Branding",
+        "Resource Type": "Certification",
+        "Platform": "edX",
+        "Difficulty Level": "Intermediate",
+        "Price": "$200",
+        "Duration": "2 hours",
+        "URL": "https://www.edx.com/branding-course-8"
+    },
+    {
+        "Resource ID": 9,
+        "Skill": "SEO",
+        "Resource Type": "Course",
+        "Platform": "Skillshare",
+        "Difficulty Level": "Beginner",
+        "Price": "$100",
+        "Duration": "2 weeks",
+        "URL": "https://www.skillshare.com/seo-course-9"
+    },
+    {
+        "Resource ID": 10,
+        "Skill": "Branding",
+        "Resource Type": "Course",
+        "Platform": "Udemy",
+        "Difficulty Level": "Intermediate",
+        "Price": "$200",
+        "Duration": "1 month",
+        "URL": "https://www.udemy.com/branding-course-10"
+    },
+    {
+        "Resource ID": 11,
+        "Skill": "SEO",
+        "Resource Type": "Workshop",
+        "Platform": "Khan Academy",
+        "Difficulty Level": "Beginner",
+        "Price": "$200",
+        "Duration": "2 hours",
+        "URL": "https://www.khanacademy.com/seo-course-11"
+    },
+    {
+        "Resource ID": 12,
+        "Skill": "Branding",
+        "Resource Type": "Course",
+        "Platform": "edX",
+        "Difficulty Level": "Beginner",
+        "Price": "$200",
+        "Duration": "2 hours",
+        "URL": "https://www.edx.com/branding-course-12"
+    },
+    {
+        "Resource ID": 13,
+        "Skill": "Graphic Design",
+        "Resource Type": "Course",
+        "Platform": "Google Digital Garage",
+        "Difficulty Level": "Intermediate",
+        "Price": "$100",
+        "Duration": "2 hours",
+        "URL": "https://www.googledigitalgarage.com/graphic-design-course-13"
+    },
+    {
+        "Resource ID": 14,
+        "Skill": "UI Design",
+        "Resource Type": "Tutorial",
+        "Platform": "Coursera",
+        "Difficulty Level": "Advanced",
+        "Price": "$200",
+        "Duration": "10 hours",
+        "URL": "https://www.coursera.com/ui-design-course-14"
+    },
+    {
+        "Resource ID": 15,
+        "Skill": "Graphic Design",
+        "Resource Type": "Tutorial",
+        "Platform": "LinkedIn Learning",
+        "Difficulty Level": "Beginner",
+        "Price": "$50",
+        "Duration": "3 weeks",
+        "URL": "https://www.linkedinlearning.com/graphic-design-course-15"
+    },
+    {
+        "Resource ID": 16,
+        "Skill": "Writing",
+        "Resource Type": "Tutorial",
+        "Platform": "Khan Academy",
+        "Difficulty Level": "Beginner",
+        "Price": "$50",
+        "Duration": "3 weeks",
+        "URL": "https://www.khanacademy.com/writing-course-16"
+    },
+    {
+        "Resource ID": 17,
+        "Skill": "Web Development",
+        "Resource Type": "Workshop",
+        "Platform": "Khan Academy",
+        "Difficulty Level": "Intermediate",
+        "Price": "$50",
+        "Duration": "1 week",
+        "URL": "https://www.khanacademy.com/web-development-course-17"
+    },
+    {
+        "Resource ID": 18,
+        "Skill": "UI Design",
+        "Resource Type": "Course",
+        "Platform": "Udemy",
+        "Difficulty Level": "Advanced",
+        "Price": "$100",
+        "Duration": "1 month",
+        "URL": "https://www.udemy.com/ui-design-course-18"
+    },
+    {
+        "Resource ID": 19,
+        "Skill": "Writing",
+        "Resource Type": "Tutorial",
+        "Platform": "Udemy",
+        "Difficulty Level": "Advanced",
+        "Price": "$100",
+        "Duration": "10 hours",
+        "URL": "https://www.udemy.com/writing-course-19"
+    },
+    {
+        "Resource ID": 20,
+        "Skill": "Data Entry",
+        "Resource Type": "Tutorial",
+        "Platform": "Udemy",
+        "Difficulty Level": "Beginner",
+        "Price": "$100",
+        "Duration": "1 month",
+        "URL": "https://www.udemy.com/data-entry-course-20"
+    },
+    {
+        "Resource ID": 21,
+        "Skill": "UI Design",
+        "Resource Type": "Tutorial",
+        "Platform": "Udemy",
+        "Difficulty Level": "Beginner",
+        "Price": "$50",
+        "Duration": "1 month",
+        "URL": "https://www.udemy.com/ui-design-course-21"
+    },
+    {
+        "Resource ID": 22,
+        "Skill": "Admin Support",
+        "Resource Type": "Workshop",
+        "Platform": "LinkedIn Learning",
+        "Difficulty Level": "Beginner",
+        "Price": "Free",
+        "Duration": "3 weeks",
+        "URL": "https://www.linkedinlearning.com/admin-support-course-22"
+    },
+    {
+        "Resource ID": 23,
+        "Skill": "Branding",
+        "Resource Type": "Certification",
+        "Platform": "Skillshare",
+        "Difficulty Level": "Intermediate",
+        "Price": "$50",
+        "Duration": "3 weeks",
+        "URL": "https://www.skillshare.com/branding-course-23"
+    },
+    {
+        "Resource ID": 24,
+        "Skill": "Social Media Management",
+        "Resource Type": "Certification",
+        "Platform": "Coursera",
+        "Difficulty Level": "Intermediate",
+        "Price": "$200",
+        "Duration": "10 hours",
+        "URL": "https://www.coursera.com/social-media-management-course-24"
+    },
+    {
+        "Resource ID": 25,
+        "Skill": "Graphic Design",
+        "Resource Type": "Workshop",
+        "Platform": "Coursera",
+        "Difficulty Level": "Beginner",
+        "Price": "$100",
+        "Duration": "10 hours",
+        "URL": "https://www.coursera.com/graphic-design-course-25"
+    },
+    {
+        "Resource ID": 26,
+        "Skill": "Graphic Design",
+        "Resource Type": "Tutorial",
+        "Platform": "Skillshare",
+        "Difficulty Level": "Intermediate",
+        "Price": "Free",
+        "Duration": "2 weeks",
+        "URL": "https://www.skillshare.com/graphic-design-course-26"
+    },
+    {
+        "Resource ID": 27,
+        "Skill": "Admin Support",
+        "Resource Type": "Course",
+        "Platform": "Google Digital Garage",
+        "Difficulty Level": "Advanced",
+        "Price": "$200",
+        "Duration": "5 hours",
+        "URL": "https://www.googledigitalgarage.com/admin-support-course-27"
+    },
+    {
+        "Resource ID": 28,
+        "Skill": "UI Design",
+        "Resource Type": "Certification",
+        "Platform": "Udemy",
+        "Difficulty Level": "Intermediate",
+        "Price": "Free",
+        "Duration": "1 week",
+        "URL": "https://www.udemy.com/ui-design-course-28"
+    },
+    {
+        "Resource ID": 29,
+        "Skill": "Graphic Design",
+        "Resource Type": "Certification",
+        "Platform": "edX",
+        "Difficulty Level": "Intermediate",
+        "Price": "$50",
+        "Duration": "2 weeks",
+        "URL": "https://www.edx.com/graphic-design-course-29"
+    },
+    {
+        "Resource ID": 30,
+        "Skill": "Data Entry",
+        "Resource Type": "Tutorial",
+        "Platform": "Udemy",
+        "Difficulty Level": "Intermediate",
+        "Price": "$50",
+        "Duration": "3 weeks",
+        "URL": "https://www.udemy.com/data-entry-course-30"
+    },
+    {
+        "Resource ID": 31,
+        "Skill": "Admin Support",
+        "Resource Type": "Tutorial",
+        "Platform": "Skillshare",
+        "Difficulty Level": "Intermediate",
+        "Price": "$50",
+        "Duration": "1 month",
+        "URL": "https://www.skillshare.com/admin-support-course-31"
+    },
+    {
+        "Resource ID": 32,
+        "Skill": "Data Entry",
+        "Resource Type": "Course",
+        "Platform": "Google Digital Garage",
+        "Difficulty Level": "Beginner",
+        "Price": "$50",
+        "Duration": "1 month",
+        "URL": "https://www.googledigitalgarage.com/data-entry-course-32"
+    },
+    {
+        "Resource ID": 33,
+        "Skill": "UI Design",
+        "Resource Type": "Certification",
+        "Platform": "Skillshare",
+        "Difficulty Level": "Advanced",
+        "Price": "Free",
+        "Duration": "10 hours",
+        "URL": "https://www.skillshare.com/ui-design-course-33"
+    },
+    {
+        "Resource ID": 34,
+        "Skill": "Data Entry",
+        "Resource Type": "Tutorial",
+        "Platform": "LinkedIn Learning",
+        "Difficulty Level": "Beginner",
+        "Price": "$200",
+        "Duration": "10 hours",
+        "URL": "https://www.linkedinlearning.com/data-entry-course-34"
+    },
+    {
+        "Resource ID": 35,
+        "Skill": "SEO",
+        "Resource Type": "Tutorial",
+        "Platform": "Udemy",
+        "Difficulty Level": "Intermediate",
+        "Price": "Free",
+        "Duration": "5 hours",
+        "URL": "https://www.udemy.com/seo-course-35"
+    },
+    {
+        "Resource ID": 36,
+        "Skill": "Graphic Design",
+        "Resource Type": "Tutorial",
+        "Platform": "edX",
+        "Difficulty Level": "Intermediate",
+        "Price": "$200",
+        "Duration": "3 weeks",
+        "URL": "https://www.edx.com/graphic-design-course-36"
+    },
+    {
+        "Resource ID": 37,
+        "Skill": "Graphic Design",
+        "Resource Type": "Tutorial",
+        "Platform": "Coursera",
+        "Difficulty Level": "Advanced",
+        "Price": "$100",
+        "Duration": "3 weeks",
+        "URL": "https://www.coursera.com/graphic-design-course-37"
+    },
+    {
+        "Resource ID": 38,
+        "Skill": "Graphic Design",
+        "Resource Type": "Workshop",
+        "Platform": "edX",
+        "Difficulty Level": "Beginner",
+        "Price": "$200",
+        "Duration": "1 month",
+        "URL": "https://www.edx.com/graphic-design-course-38"
+    },
+    {
+        "Resource ID": 39,
+        "Skill": "SEO",
+        "Resource Type": "Certification",
+        "Platform": "Udemy",
+        "Difficulty Level": "Beginner",
+        "Price": "$50",
+        "Duration": "2 weeks",
+        "URL": "https://www.udemy.com/seo-course-39"
+    },
+    {
+        "Resource ID": 40,
+        "Skill": "Web Development",
+        "Resource Type": "Tutorial",
+        "Platform": "edX",
+        "Difficulty Level": "Beginner",
+        "Price": "Free",
+        "Duration": "5 hours",
+        "URL": "https://www.edx.com/web-development-course-40"
+    },
+    {
+        "Resource ID": 41,
+        "Skill": "Social Media Management",
+        "Resource Type": "Tutorial",
+        "Platform": "Google Digital Garage",
+        "Difficulty Level": "Advanced",
+        "Price": "$50",
+        "Duration": "2 weeks",
+        "URL": "https://www.googledigitalgarage.com/social-media-management-course-41"
+    },
+    {
+        "Resource ID": 42,
+        "Skill": "Graphic Design",
+        "Resource Type": "Certification",
+        "Platform": "edX",
+        "Difficulty Level": "Advanced",
+        "Price": "$50",
+        "Duration": "2 weeks",
+        "URL": "https://www.edx.com/graphic-design-course-42"
+    },
+    {
+        "Resource ID": 43,
+        "Skill": "Social Media Management",
+        "Resource Type": "Tutorial",
+        "Platform": "Khan Academy",
+        "Difficulty Level": "Beginner",
+        "Price": "Free",
+        "Duration": "2 hours",
+        "URL": "https://www.khanacademy.com/social-media-management-course-43"
+    },
+    {
+        "Resource ID": 44,
+        "Skill": "Admin Support",
+        "Resource Type": "Certification",
+        "Platform": "LinkedIn Learning",
+        "Difficulty Level": "Advanced",
+        "Price": "$100",
+        "Duration": "1 month",
+        "URL": "https://www.linkedinlearning.com/admin-support-course-44"
+    },
+    {
+        "Resource ID": 45,
+        "Skill": "Branding",
+        "Resource Type": "Tutorial",
+        "Platform": "Khan Academy",
+        "Difficulty Level": "Advanced",
+        "Price": "$200",
+        "Duration": "10 hours",
+        "URL": "https://www.khanacademy.com/branding-course-45"
+    },
+    {
+        "Resource ID": 46,
+        "Skill": "Data Entry",
+        "Resource Type": "Course",
+        "Platform": "LinkedIn Learning",
+        "Difficulty Level": "Intermediate",
+        "Price": "Free",
+        "Duration": "2 weeks",
+        "URL": "https://www.linkedinlearning.com/data-entry-course-46"
+    },
+    {
+        "Resource ID": 47,
+        "Skill": "UI Design",
+        "Resource Type": "Workshop",
+        "Platform": "Skillshare",
+        "Difficulty Level": "Advanced",
+        "Price": "$50",
+        "Duration": "2 weeks",
+        "URL": "https://www.skillshare.com/ui-design-course-47"
+    },
+    {
+        "Resource ID": 48,
+        "Skill": "Web Development",
+        "Resource Type": "Certification",
+        "Platform": "Google Digital Garage",
+        "Difficulty Level": "Advanced",
+        "Price": "$200",
+        "Duration": "2 weeks",
+        "URL": "https://www.googledigitalgarage.com/web-development-course-48"
+    },
+    {
+        "Resource ID": 49,
+        "Skill": "Graphic Design",
+        "Resource Type": "Workshop",
+        "Platform": "Udemy",
+        "Difficulty Level": "Intermediate",
+        "Price": "Free",
+        "Duration": "3 weeks",
+        "URL": "https://www.udemy.com/graphic-design-course-49"
+    },
+    {
+        "Resource ID": 50,
+        "Skill": "Social Media Management",
+        "Resource Type": "Workshop",
+        "Platform": "edX",
+        "Difficulty Level": "Advanced",
+        "Price": "$200",
+        "Duration": "3 weeks",
+        "URL": "https://www.edx.com/social-media-management-course-50"
+    }
+]
