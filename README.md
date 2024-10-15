@@ -1,4 +1,4 @@
-# Leveraging-LLMs-to-provide-skill-suggestions-and-recommendations
+# Leveraging-LLMs-to-provide-skill-suggestions-and-recommendations for gig workers
 
 **Project plan:**
 
